@@ -1,0 +1,5 @@
+- platform: mqtt
+  name: 'MQTT Sensor'
+  state_topic: "home-assistant/sensor/test"
+  
+    

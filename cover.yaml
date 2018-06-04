@@ -1,0 +1,3 @@
+- platform: mqtt
+  name: "MQTT Roller Shutter"
+  command_topic: "home-assistant/cover/set"
